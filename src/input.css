@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.font-permanent-marker {
+    font-family: 'Permanent Marker', cursive;
+}
+@media (max-width: 640px) {
+    .nav-list {
+        display: none;
+    }
+
+    .nav-list.active {
+        display: flex;
+    }
+}
