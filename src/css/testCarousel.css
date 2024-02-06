@@ -8,11 +8,15 @@ body {
 .container {
     overflow: hidden;
     /* Cache les éléments qui dépassent du container */
+    margin-bottom: 20px;
+  
 }
 /* Définition du carousel */
 .carousel {
     position: relative;
     /* Le carousel est positionné relativement à son parent */
+    margin: 10%;
+   
 }
 /* Définition de l'élément contenant les diapositives */
 .carousel-inner {
@@ -96,10 +100,10 @@ body {
 /* Styles pour les points de navigation du carrousel */
 .carousel-dots .active {
     /* Border de 10px pour le point actif */
-    border: 10px solid #761530 !important;
+    border: 10px solid black !important;
     /* !important permet de surcharger les autres styles éventuels */
 }
 .carousel-dots .inactive {
     /* Border de 10px pour les points inactifs */
-    border: 10px solid #2596be;
+    border: 10px solid #d1d5db;
 }

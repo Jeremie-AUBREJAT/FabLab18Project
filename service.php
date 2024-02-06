@@ -1,7 +1,7 @@
-<?php include ('src/inc/header.php');?>
-
 
 <body>
+
+<?php include ('src/inc/header.php');?>
     <div class="formation">
         <select name="session">
             <option value="">Nos formation</option>
@@ -50,7 +50,8 @@ $("select[name='session']").change(function(){ //On effectue un changement en fo
     //     })
     // })
     </script>
+    
+<?php include ('src/inc/footer.php');?>
 </body>
 
 
-<?php include ('src/inc/footer.php');?>
