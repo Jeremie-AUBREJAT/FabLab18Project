@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="src/output.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="src/output.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
     <link rel="stylesheet" href="src/css/testCarousel.css">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <!-- Lien vers le fichier JavaScript pour les fonctionnalités interactives -->
-    <script src="fabLab.js" async></script>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <script type="text/javascript" src="testCarousel.js" async></script>
+    
+    <!--<script src="https://cdn.tailwindcss.com"></script>-->
     <title>Fablab18</title>
 </head>
 
@@ -69,5 +70,5 @@
 
 
 <!--fin du header-->
-</html>
 
+</html>
