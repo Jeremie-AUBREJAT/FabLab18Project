@@ -6,10 +6,11 @@
     <link href="src/output.css" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
     <link rel="stylesheet" href="src/css/testCarousel.css">
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    <!-- Lien vers le fichier JavaScript pour les fonctionnalités interactives -->
-    <script src="fabLab.js" async></script>
     <script src="https://cdn.tailwindcss.com"></script>
+
+    
+    <!-- Lien vers le fichier JavaScript pour les fonctionnalités interactives -->
+    
     <title>Fablab18</title>
 </head>
 

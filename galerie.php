@@ -50,3 +50,4 @@
     </div>
 </body>
 <?php include ('src/inc/footer.php');?>
+<script src="galerie.js" type="text/javascript"></script>
