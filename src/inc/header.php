@@ -40,7 +40,7 @@
 
     <!-- Balise nav visible uniquement en version desktop -->
     <nav class="hidden lg:block p-2">
-        <div class="container mx-auto">
+        <div class="container mx-auto p-8">
             <div class="max-w-2xl mx-auto">
                 <ul class="flex justify-between text-2xl">
                     <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="index.php">Accueil</a></li>  
