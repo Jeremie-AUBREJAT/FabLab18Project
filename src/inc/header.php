@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="src/css/testCarousel.css">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <!-- Lien vers le fichier JavaScript pour les fonctionnalités interactives -->
-    <script type="text/javascript" src="testCarousel.js" async></script>
+   
     
     <!--<script src="https://cdn.tailwindcss.com"></script>-->
     <title>Fablab18</title>
@@ -37,7 +37,7 @@
         </nav>
 
         <!-- Menu burger pour la version mobile -->
-        <nav id="mobile-menu" class=" lg:hidden p-2">
+        <nav id="mobile-menu" class="sm:block p-2">
             <div class="container mx-auto p-8">
                 <div class="max-w-2xl mx-auto">
                     <button id="burger-btn" class="text-black focus:outline-none">
@@ -56,7 +56,7 @@
         </nav>
     </header>
 
-    <script>
+    <!--<script>
         document.addEventListener('DOMContentLoaded', function () {
             const burgerBtn = document.getElementById('burger-btn');
             const mobileMenu = document.getElementById('mobile-menu');
@@ -65,7 +65,7 @@
                 mobileMenu.classList.toggle('hidden');
             });
         });
-    </script>
+    </script>-->
 
 
 

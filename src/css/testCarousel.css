@@ -68,7 +68,7 @@ body {
 .carousel-controls button {
     padding: 10px;
     /* Ajout de padding pour un meilleur contrôle */
-    background-color: rgb(69, 69, 69);
+    background-color: rgb(0, 0, 0);
     /* Arrière-plan en aquamarine */
 }
 /* Définition des points de contrôle */
@@ -81,7 +81,7 @@ body {
     /* La distance à gauche est de 50% */
     right: 50%;
     /* La distance à droite est de 50% */
-    bottom: 10%;
+    bottom: 100%;
     /*La distance du bas est de 10% */
     display: flex;
     /* Affiche les points en ligne */
@@ -105,5 +105,5 @@ body {
 }
 .carousel-dots .inactive {
     /* Border de 10px pour les points inactifs */
-    border: 10px solid #d1d5db;
+    border: 10px solid #aaaaaa;
 }
