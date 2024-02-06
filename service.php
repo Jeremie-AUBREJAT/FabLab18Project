@@ -1,7 +1,10 @@
-<?php include ('src/inc/header.php');?>
+
 <body>
-    <div class="formation flex">
+
+<?php include ('src/inc/header.php');?>
+   <div class="formation flex">
         <select name="session" class="bg-gray-300 text-black rounded-md shadow-lg p-5 m-5 text-xl">
+
             <option value="">Nos formation</option>
             <option value="1">Imprimante 3D</option> 
             <option value="2">Montage vidéo</option>
@@ -41,11 +44,16 @@ Venez vous essayer à notre Fraiseuse pour réaliser toutes vos envies, il vous 
 
     <script>$('div.allDiv').hide(); //On cache une toutes les div avant la sélection d'une formation
 
+
 $("select[name='session']").change(function(){ //On effectue un changement en fonction du select
     let id = "div_"+$(this).val(); //On créer une variable id qui recuperera la valeur
     $('div.allDiv').hide();
     $('div.divOriginal').hide();//On recache encore une fois toutes les div non concerne
     $('#'+id).show();//On affiche la div correspondante
  });</script>
-</body>
+
 <?php include ('src/inc/footer.php');?>
+
+</body>
+
+
