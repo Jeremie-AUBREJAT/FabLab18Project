@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="src/css/testCarousel.css">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <!-- Lien vers le fichier JavaScript pour les fonctionnalités interactives -->
-    <script src="testCarousel.js" async></script>
+    <script src="fabLab.js" async></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>Fablab18</title>
 </head>
 
