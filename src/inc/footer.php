@@ -11,7 +11,7 @@
         <div class="flex-grow"></div>
   
         <nav class="flex space-x-4 ml-auto">          
-            <a href="mentions-legales.html" class="text-black text-xl font-semibold bg-gray-100 hover:text-white hover:bg-gray-600 transition-all duration-300 px-4 py-2 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none">Mentions legales</a>
+            <a href="mentions-legales.html" class="text-black text-xl font-semibold bg-gray-100 hover:text-white hover:bg-gray-600 transition-all duration-300 px-4 py-2 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none">Mentions légales</a>
 
         </nav>
   
