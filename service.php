@@ -1,4 +1,6 @@
 <?php include ('src/inc/header.php');?>
+
+
 <body>
     <div class="formation">
         <select name="session">
@@ -49,4 +51,6 @@ $("select[name='session']").change(function(){ //On effectue un changement en fo
     // })
     </script>
 </body>
+
+
 <?php include ('src/inc/footer.php');?>
