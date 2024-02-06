@@ -1,4 +1,10 @@
+
+<body>
+
 <?php include ('src/inc/header.php');?>
+   <div class="formation flex">
+        <select name="session" class="bg-gray-300 text-black rounded-md shadow-lg p-5 m-5 text-xl">
+
 <body>
     <div class="formation flex">
         <select name="session" class="bg-gray-500 text-black rounded-md shadow-lg p-3 m-5 text-xl">
