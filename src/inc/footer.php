@@ -5,7 +5,7 @@
     <div class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex items-center">
            <img src="img/1(4).png" alt="Logo" class="w-32 h-32 mx-10">
-           <div class="text-black w-8 h-8 text-2xl font-bold mr-10">FabLab18</div>
+           <div class="text-black font-permanent-marker w-8 h-8 text-2xl font-bold mr-10">FabLab18</div>
         </div>
   
         <div class="flex-grow"></div>

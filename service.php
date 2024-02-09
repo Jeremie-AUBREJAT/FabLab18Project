@@ -1,6 +1,8 @@
-<?php include ('src/inc/header.php');?> <!-- Rappel du header -->
-<body>
 
+<?php include ('src/inc/head.php');?>
+
+<body>
+<?php include ('src/inc/header.php');?> <!-- Rappel du header -->
     <div class="formation flex">
         <select name="session" class="bg-gray-500 dark:bg-gray-300 text-black  dark:text-white rounded-md shadow-lg ml-20 p-3 text-xl">
             <option value="" disabled selected>Nos formation</option>

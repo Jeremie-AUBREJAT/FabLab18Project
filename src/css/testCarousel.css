@@ -39,14 +39,16 @@ body {
     /* Ajout d'une animation douce pour la transition entre les diapositives */
 }
 /* Définition de l'affichage de l'image de chaque diapositive */
+/* Définition de l'affichage de l'image de chaque diapositive */
 .slide img {
     width: 100%;
     /* Largeur de l'image est de 100% */
     height: 100%;
     /* Hauteur de l'image est de 100% */
-    object-fit: cover;
-    /* Couvre tout l'espace disponible */
+    object-fit: contain;
+    /* Ajuste l'image à la taille de son conteneur sans la couper */
 }
+
 /* Définition des boutons de contrôle du carousel */
 .carousel-controls {
     position: absolute;
@@ -68,7 +70,7 @@ body {
 .carousel-controls button {
     padding: 10px;
     /* Ajout de padding pour un meilleur contrôle */
-    background-color: rgb(69, 69, 69);
+    background-color: rgb(0, 0, 0);
     /* Arrière-plan en aquamarine */
 }
 /* Définition des points de contrôle */
@@ -81,7 +83,7 @@ body {
     /* La distance à gauche est de 50% */
     right: 50%;
     /* La distance à droite est de 50% */
-    bottom: 10%;
+    bottom: 100%;
     /*La distance du bas est de 10% */
     display: flex;
     /* Affiche les points en ligne */
@@ -105,5 +107,5 @@ body {
 }
 .carousel-dots .inactive {
     /* Border de 10px pour les points inactifs */
-    border: 10px solid #d1d5db;
+    border: 10px solid #aaaaaa;
 }
