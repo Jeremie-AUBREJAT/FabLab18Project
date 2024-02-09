@@ -1,5 +1,3 @@
-
-
 <header>
         <div class="bg-gray-300 p-4 text-black text-center">
             <div class="container mx-auto flex items-center justify-center">
