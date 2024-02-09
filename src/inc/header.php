@@ -48,7 +48,7 @@
             </div>
         </nav>
     </header>
-    <script type="text/javascript" src="src/js/burgerMenu.js"></script>
+    <script src="src/js/burgerMenu.js"></script>
 
     <!--<script>//fonction pour le menu burger
 

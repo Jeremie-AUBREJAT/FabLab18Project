@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="src/output.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
     <link rel="stylesheet" href="src/css/testCarousel.css">
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     
     
     

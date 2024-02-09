@@ -108,5 +108,5 @@
 
 <?php include ('src/inc/footer.php');?>
 
-<script type="text/javascript" src="src/js/testCarousel.js" async></script>
+<script src="src/js/testCarousel.js" async></script>
 </body>
