@@ -1,4 +1,4 @@
-
+<?php include ('src/inc/head.php');?>
 <body>
 
 <?php include ('src/inc/header.php');?>
