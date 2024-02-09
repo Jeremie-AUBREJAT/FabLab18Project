@@ -11,19 +11,19 @@
                 <!-- Première diapositive -->
                 <div class="slide">
                    
-                    <img src="img/1(3).jpg"class="w-1/2 max-w-[50%] md:w-auto h-auto"
+                    <img src="img/1(3).jpg"
                         alt="represente une serviette">
                 </div>
                 <!-- Deuxième diapositive -->
                 <div class="slide">
                     
-                    <img src="img/1(4).jpg"class="w-1/2 md:w-auto h-auto"
+                    <img src="img/1(4).jpg"
                         alt="represente un t-shirt">
                 </div>
                 <!-- Troisième diapositive -->
                 <div class="slide">
                  
-                    <img src="img/1(2).jpg"class="w-1/2 md:w-auto h-auto"
+                    <img src="img/1(2).jpg"
                         alt="represente une horloge">
                 </div>
                 <!-- Quatrième diapositive -->

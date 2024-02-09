@@ -15,7 +15,7 @@ body {
 .carousel {
     position: relative;
     /* Le carousel est positionné relativement à son parent */
-    margin: 10%;
+    margin: 0%;
    
 }
 /* Définition de l'élément contenant les diapositives */
@@ -66,6 +66,13 @@ body {
     justify-content: space-between;
     /* Espacement égal entre les boutons */
 }
+@media screen and (max-width: 768px) {
+    .carousel-controls {
+        top: 10%;
+        margin: 0,
+        /* Ajuste la position des boutons pour les appareils mobiles */
+    }
+}
 /* Style des boutons de contrôle */
 .carousel-controls button {
     padding: 10px;
@@ -83,7 +90,7 @@ body {
     /* La distance à gauche est de 50% */
     right: 50%;
     /* La distance à droite est de 50% */
-    bottom: 100%;
+    bottom: 95%;
     /*La distance du bas est de 10% */
     display: flex;
     /* Affiche les points en ligne */

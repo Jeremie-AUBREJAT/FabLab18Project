@@ -17,11 +17,11 @@
 
         <!-- J'ai mis des balise avec chacun une value qu'on pourra rappeler en JS pour cacher ou afficher les div corespondantes -->
 
-<div class="grid">
+<div class="flex">
 
         <!-- Envie d'une formation -->
 
-    <div class="divOriginal grid grid-cols-2 max-lg:grid-cols-1 p-10">
+    <div class="divOriginal grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">Envie d'une formation ?</p>
             <br>
@@ -35,9 +35,9 @@
 
         <!-- Imprimante 3D -->
 
-    <div id="div_1" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10"> 
+    <div id="div_1" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10"> 
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
-            <p class="text-5xl font-semibold text-wrap text-center">La formation pour Imprimante 3D</p>
+            <p class="text-5xl font-semibold text-wrap lg:text-center">La formation pour Imprimante 3D</p>
             <p class="m-10 text-center">Envie de créer sa propre figurine ou réparer un objet cassé ? L’imprimante 3D pour vous servir. Venez apprendre les bases de la manipulation 3D en utilisant vos filaments PLA pour un choix total de la couleur !</p>
         </div>
         <div class="p-10">
@@ -47,7 +47,7 @@
 
         <!-- Montage vidéo -->
 
-    <div id="div_2" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10">
+    <div id="div_2" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">La formation montage vidéo</p>
             <p class="m-10 text-center">Passionné(e) par le montage ? Venez apprendre à modifier vos propres vidéos avec le logiciel Pinnacle !
@@ -60,7 +60,7 @@
 
         <!-- Maquette 3D ou 2D -->
 
-    <div id="div_3" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10">
+    <div id="div_3" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">La formation maquette 3D et 2d</p>
             <p class="m-10 text-center">Apprenez à maquetter en 2D ou en 3D sur un logiciel dédié !</p>
@@ -72,7 +72,7 @@
 
         <!-- Arduino -->
 
-    <div id="div_4" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10">
+    <div id="div_4" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">La formation arduino</p>
             <p class="m-10 text-center">Envie de faire des leds qui réagissent à la musique ? Un détecteur de mensonge (enfin presque) ? Ou alors une autre idée ? Venez apprendre à vous servir d’un Arduino avant de vous procurer le vôtre et de faire vos expériences à la maison. Les cours vous feront découvrir une grande partie de ce qu’il est possible de faire avec !</p>
@@ -84,7 +84,7 @@
 
         <!-- Fraiseuse -->
 
-    <div id="div_5" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10">
+    <div id="div_5" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">La formation fraiseuse</p>
             <p class="m-10 text-center">Envie de tailler ou faire une découpe dans un matériaux comme le métal ou le bois pour créer un élément de décoration ?
@@ -97,7 +97,7 @@
 
         <!-- Brodeuse numérique -->
 
-    <div id="div_6" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10">
+    <div id="div_6" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">La formation brodeuse numérique</p>
             <p class="m-10 text-center">Envie de retrouver son logo ou dessin sur sweat, t-shirt, casquette ou une serviette ? Venez le dessiner et le broder sur le linge de votre choix !</p>
@@ -107,7 +107,7 @@
         </div>
     </div>
 </div>
-<div class="flex justify-center text-3xl text-wrap text-center mx-20 mb-10 p-10 pb-15 bg-gray-300 rounded-3xl shadow-xl">
+<div class="flex justify-center text-3xl text-wrap text-center mx-5 lg:mx-20 mb-10 lg:p-10 lg:pb-15 bg-gray-300 rounded-3xl shadow-xl">
     Dans le vaste monde des technologies numériques, des formations spécialisées captivent les esprits et stimulent la créativité.
      De l'impression 3D au montage vidéo, de la modélisation 3D à l'Arduino, de la fraiseuse numérique à la brodeuse numérique,
       ces apprentissages ouvrent les portes d'un univers où l'innovation et la fabrication se conjuguent harmonieusement.
