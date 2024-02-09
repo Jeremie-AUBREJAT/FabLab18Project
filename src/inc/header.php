@@ -27,45 +27,57 @@
             <div class="container mx-auto p-8">
                 <div class="max-w-2xl mx-auto">
                     <ul class="flex justify-between text-2xl">
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="index.php">Accueil</a></li>
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="service.php">Nos services</a></li>
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="galerie.php">Galerie</a></li>
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="contact.php">Contact</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="index.php">Accueil</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="service.php">Nos services</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="galerie.php">Galerie</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
 
         <!-- Menu burger pour la version mobile -->
-        <nav id="mobile-menu" class="sm:block p-2">
-            <div class="container mx-auto p-8">
-                <div class="max-w-2xl mx-auto">
-                    <button id="burger-btn" class="text-black focus:outline-none">
+        <button id="burger-btn" class="text-black focus:outline-none sm:block lg:hidden">
                         <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M4 6H20M4 12H20M4 18H20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
                         </svg>
                     </button>
-                    <ul id="mobile-menu-list" class="hidden text-2xl mt-4">
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="index.php">Accueil</a></li>
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="service.php">Nos services</a></li>
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="galerie.php">Galerie</a></li>
-                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="contact.php">Contact</a></li>
+        <nav id="mobile-menu" class="hidden sm:block lg:hidden p-2">
+            <div class="container mx-auto p-8">
+                <div class="max-w-2xl mx-auto">
+                    
+                    <ul id="mobile-menu-list" class="text-2xl mt-4">
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl 
+                        transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="index.php">Accueil</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl 
+                        transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="service.php">Nos services</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl 
+                        transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="galerie.php">Galerie</a></li>
+                        <li class="text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all duration-300 rounded-2xl shadow-xl 
+                        transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
 
-    <!--<script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const burgerBtn = document.getElementById('burger-btn');
-            const mobileMenu = document.getElementById('mobile-menu');
+    <script>
+        function afficherNav() {
+  var nav = document.getElementById("mobile-menu");
+   if (nav.classList.contains("hidden")){
+    nav.classList.remove("hidden");
+   }else{
+    nav.classList.add("hidden");
+   }};
 
-            burgerBtn.addEventListener('click', function () {
-                mobileMenu.classList.toggle('hidden');
-            });
-        });
-    </script>-->
+// Ajouter un gestionnaire d'événements au bouton
+document.getElementById("burger-btn").addEventListener("click", afficherNav);
+
+    </script>
 
 
 

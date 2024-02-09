@@ -11,6 +11,17 @@
 // sans avoir besoin d'être appelées.Les accolades immédiatement après la 
 // déclaration de la fonction et les parenthèses à la fin de la déclaration 
 // définissent la fonction et permettent de l'exécuter immédiatement.
+function afficherNav() {
+    var nav = document.getElementById("mobile-menu");
+     if (nav.classList.contains("hidden")){
+      nav.classList.remove("hidden");
+     }else{
+      nav.classList.add("hidden");
+     }};
+  
+  // Ajouter un gestionnaire d'événements au bouton
+  document.getElementById("burger-btn").addEventListener("click", afficherNav);
+  
 (function () {
     // Utilisation de la directive "use strict" pour activer le mode strict en JavaScript
     // Cela implique une meilleure gestion des erreurs et une syntaxe plus stricte pour le code
