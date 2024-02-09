@@ -1,7 +1,8 @@
 <?php include ('src/inc/header.php');?> <!-- Rappel du header -->
 <body>
+
     <div class="formation flex">
-        <select name="session" class=" bg-gray-500 dark:bg-gray-300 text-black  dark:text-white rounded-md shadow-lg p-3 m-5 text-xl">
+        <select name="session" class="bg-gray-500 dark:bg-gray-300 text-black  dark:text-white rounded-md shadow-lg ml-20 p-3 text-xl">
             <option value="" disabled selected>Nos formation</option>
             <option value="1">Imprimante 3D</option> 
             <option value="2">Montage vidéo</option>
@@ -22,11 +23,11 @@
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
             <p class="text-5xl font-semibold text-wrap text-center">Envie d'une formation ?</p>
             <br>
-            <p class=" text-center">Vous souhaitez commencer une formation sur une machine mais vous ne savez pas laquelles, nous vous en proposons plusieurs adaptées à tout type de besoins.
+            <p class="text-center">Vous souhaitez commencer une formation sur une machine mais vous ne savez pas laquelles, nous vous en proposons plusieurs adaptées à tout type de besoins.
                 Sélectionnez une formation sur dans le menu déroulant ci-dessus pour accéder à ces informations. </p>
         </div>
         <div class="p-10">
-        <img class="rounded-2xl" src="img/interieurFabLab.jpg" alt="Image représentant l'entrée du FabLab.">
+        <img class="rounded-2xl" src="img/entreFabLab.jpg" alt="Image représentant l'entrée du FabLab.">
         </div>
     </div>
 
@@ -50,7 +51,7 @@
             <p class="m-10 text-center">Passionné(e) par le montage ? Venez apprendre à modifier vos propres vidéos avec le logiciel Pinnacle !
                 Logiciel de montage vidéo de niveau professionnel. Réalisez vos montages librement avec un contrôle et une précision exceptionnels. Chez nous, vous apprendrez à votre rythme à utiliser ce logiciel et commencerez à prendre plaisir dessus.</p>
         </div>
-        <div class="p-10">
+        <div class= " p-10">
             <img class="rounded-2xl" src="img/image2.png" alt="Toujour pas un téléphone mais une image représentant un écran pour montage vidéo">
         </div>
     </div>
@@ -67,7 +68,7 @@
         </div>
     </div>
 
-        <!--Arduino -->
+        <!-- Arduino -->
 
     <div id="div_4" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
@@ -88,7 +89,7 @@
                 Venez vous essayer à notre Fraiseuse pour réaliser toutes vos envies, il vous suffira simplement de vous de la pièce que vous désirez modifier !</p>
         </div>
         <div class="p-10">
-            <img class="rounded-2xl" src="img/image1.png" alt="Image en 3D représentant une fraiseuse">
+            <img class ="rounded-2xl" src="img/image1.png" alt="Image en 3D représentant une fraiseuse">
         </div>
     </div>
 
@@ -104,8 +105,24 @@
         </div>
     </div>
 </div>
+<div class="flex justify-center text-3xl text-wrap text-center m-10 p-10 pb-15 bg-gray-300 rounded-3xl">
+    Dans le vaste monde des technologies numériques, des formations spécialisées captivent les esprits et stimulent la créativité.
+     De l'impression 3D au montage vidéo, de la modélisation 3D à l'Arduino, de la fraiseuse numérique à la brodeuse numérique,
+      ces apprentissages ouvrent les portes d'un univers où l'innovation et la fabrication se conjuguent harmonieusement.
+       Explorez, créez, et laissez libre cours à votre imagination dans ce monde numérique en constante évolution.
+</div>
+<div class="grid grid-cols-2">
+    <div class="">
+
+    </div>
+    <div class="">
+
+    </div>
+</div>
 <?php include ('src/inc/footer.php');?> <!--Rappel du footer -->
 
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script> <!-- Lien vers le javascript et le jquery -->
+<!-- Lien vers le javascript et le jquery -->
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script> 
 <script type="text/javascript" src="service.js" async></script>
 </body>
