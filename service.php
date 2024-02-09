@@ -4,7 +4,7 @@
 <body>
 <?php include ('src/inc/header.php');?> <!-- Rappel du header -->
     <div class="formation flex">
-        <select name="session" class="bg-gray-500 dark:bg-gray-300 text-black  dark:text-white rounded-md shadow-lg ml-20 p-3 text-xl">
+        <select name="session" class="bg-gray-500 dark:bg-gray-300 text-black rounded-md shadow-lg ml-20 p-3 text-xl font-semibold">
             <option value="" disabled selected>Nos formation</option>
             <option value="1">Imprimante 3D</option> 
             <option value="2">Montage vidéo</option>
@@ -107,20 +107,13 @@
         </div>
     </div>
 </div>
-<div class="flex justify-center text-3xl text-wrap text-center m-10 p-10 pb-15 bg-gray-300 rounded-3xl">
+<div class="flex justify-center text-3xl text-wrap text-center mx-20 mb-10 p-10 pb-15 bg-gray-300 rounded-3xl shadow-xl">
     Dans le vaste monde des technologies numériques, des formations spécialisées captivent les esprits et stimulent la créativité.
      De l'impression 3D au montage vidéo, de la modélisation 3D à l'Arduino, de la fraiseuse numérique à la brodeuse numérique,
       ces apprentissages ouvrent les portes d'un univers où l'innovation et la fabrication se conjuguent harmonieusement.
        Explorez, créez, et laissez libre cours à votre imagination dans ce monde numérique en constante évolution.
 </div>
-<div class="grid grid-cols-2">
-    <div class="">
 
-    </div>
-    <div class="">
-
-    </div>
-</div>
 <?php include ('src/inc/footer.php');?> <!--Rappel du footer -->
 
 <!-- Lien vers le javascript et le jquery -->
