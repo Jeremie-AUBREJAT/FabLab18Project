@@ -1,5 +1,5 @@
 <header class="lg:mb-20">
-        <div class="bg-gray-300 p-4 text-black text-center h-64" style="background-image: url('img/fond.png'); background-size: cover;">>
+        <div class="bg-gray-300 p-4 text-black text-center h-64" style="background-image: url('img/testx2.png'); background-size: cover;">
             <div class="container mx-auto flex items-center justify-center">
                 <img id="logo" src="img/1.png" title="logo" class="w-32 h-32">
                 <h1 class="text-4xl font-permanent-marker font-bold ml-2">Berry lab 18</h1>
@@ -9,13 +9,13 @@
             <div class="container mx-auto p-8">
                 <div class="max-w-2xl mx-auto">
                     <ul class="flex justify-between text-2xl">
-                        <li class="border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        <li class="mt-6 border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
                         duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="index.php">Accueil</a></li>
-                        <li class="border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        <li class="mt-6 border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
                         duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="service.php">Nos services</a></li>
-                        <li class="border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        <li class="mt-6 border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
                         duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="galerie.php">Galerie</a></li>
-                        <li class="border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
+                        <li class="mt-6 border-solid border-2 border-gray-600 text-black font-semibold inline-block px-4 py-2  bg-gray-300 hover:text-white hover:bg-gray-600 transition-all 
                         duration-300 rounded-2xl shadow-xl transform hover:-translate-y-1 motion-reduce:transition-none motion-reduce:hover:transform-none"><a href="contact.php">Contact</a></li>
                     </ul>
                 </div>

@@ -1,10 +1,10 @@
 <link href="src/output.css" rel="stylesheet">
 
 
-<footer class="bg-gray-300 text-white py-4">
+<footer class="bg-gray-300 text-white py-4" style="background-image: url('img/testx2.png'); background-size: cover;">
     <div class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex items-center">
-           <img src="img/1(4).png" alt="Logo" class="w-32 h-32 mx-10">
+           <img src="img/1.png" alt="Logo" class="w-32 h-32 mx-10">
            <div class="text-black font-permanent-marker w-8 h-8 text-2xl font-bold mr-10">BerryLab18           
            </div>
         </div>

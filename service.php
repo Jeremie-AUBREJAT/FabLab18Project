@@ -23,7 +23,7 @@
 
     <div class="divOriginal grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
-            <p class="text-5xl font-semibold text-wrap text-center">Envie d'une formation ?</p>
+            <p class="text-5xl font-semibold text-wrap lg:text-center">Envie d'une formation ?</p>
             <br>
             <p class="text-center">Vous souhaitez commencer une formation sur une machine mais vous ne savez pas laquelles, nous vous en proposons plusieurs adaptées à tout type de besoins.
                 Sélectionnez une formation sur dans le menu déroulant ci-dessus pour accéder à ces informations. </p>
@@ -49,7 +49,7 @@
 
     <div id="div_2" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
-            <p class="text-5xl font-semibold text-wrap text-center">La formation montage vidéo</p>
+            <p class="text-5xl font-semibold text-wrap lg:text-center">La formation montage vidéo</p>
             <p class="m-10 text-center">Passionné(e) par le montage ? Venez apprendre à modifier vos propres vidéos avec le logiciel Pinnacle !
                 Logiciel de montage vidéo de niveau professionnel. Réalisez vos montages librement avec un contrôle et une précision exceptionnels. Chez nous, vous apprendrez à votre rythme à utiliser ce logiciel et commencerez à prendre plaisir dessus.</p>
         </div>
@@ -62,7 +62,7 @@
 
     <div id="div_3" class="allDiv grid grid-cols-2 max-lg:grid-cols-1 lg:p-10">
         <div class="m-10 p-10 text-3xl rounded-3xl bg-gray-300 shadow-xl">
-            <p class="text-5xl font-semibold text-wrap text-center">La formation maquette 3D et 2d</p>
+            <p class="text-5xl font-semibold text-wrap lg:text-center">La formation maquette 3D et 2d</p>
             <p class="m-10 text-center">Apprenez à maquetter en 2D ou en 3D sur un logiciel dédié !</p>
         </div>
         <div class="p-10">
