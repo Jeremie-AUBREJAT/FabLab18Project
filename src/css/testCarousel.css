@@ -47,6 +47,7 @@ body {
     /* Hauteur de l'image est de 100% */
     object-fit: contain;
     /* Ajuste l'image à la taille de son conteneur sans la couper */
+    
 }
 
 /* Définition des boutons de contrôle du carousel */
