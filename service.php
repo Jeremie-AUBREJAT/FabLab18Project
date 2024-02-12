@@ -29,7 +29,7 @@
                 Sélectionnez une formation sur dans le menu déroulant ci-dessus pour accéder à ces informations. </p>
         </div>
         <div class="p-10">
-        <img class="rounded-2xl" src="img/entreFabLab.webp" alt="Image représentant l'entrée du FabLab.">
+        <img class="rounded-2xl" src="img/entreFabLab.webp" alt="Image représentant l'entrée du FabLab." loading="lazy">
         </div>
     </div>
 
@@ -41,7 +41,7 @@
             <p class="lg:m-10 lg:text-center">Envie de créer sa propre figurine ou réparer un objet cassé ? L’imprimante 3D pour vous servir. Venez apprendre les bases de la manipulation 3D en utilisant vos filaments PLA pour un choix total de la couleur !</p>
         </div>
         <div class="p-10">
-                <img class="border-2 border-gray-600 rounded-2xl" src="img/1(6).webp" alt ="Image qui représentee une imrpimante 3D et 2d mais pas un téléphone, le lapsus est souvent fait! Nous n'avons aucune affiliations avec Takotek">
+                <img class="border-2 border-gray-600 rounded-2xl" src="img/1(6).webp" alt ="Image qui représentee une imrpimante 3D et 2d mais pas un téléphone, le lapsus est souvent fait! Nous n'avons aucune affiliations avec Takotek" loading="lazy">
         </div>   
     </div>
 
@@ -55,7 +55,7 @@
             </p>
         </div>
         <div class= " p-10">
-            <img class="rounded-2xl" src="img/1(8.1).webp" alt="Toujour pas un téléphone mais une image représentant un écran pour montage vidéo">
+            <img class="rounded-2xl" src="img/1(8.1).webp" alt="Toujour pas un téléphone mais une image représentant un écran pour montage vidéo" loading="lazy">
         </div>
     </div>
 
@@ -67,7 +67,7 @@
             <p class="m-5 lg:m-10 lg:text-center">Apprenez à maquetter en 2D ou en 3D sur un logiciel dédié !</p>
         </div>
         <div class="p-10">
-            <img class="rounded-2xl" src="img/design3D.webp" alt="Image représentant le design 3D et 2D.">
+            <img class="rounded-2xl" src="img/design3D.webp" alt="Image représentant le design 3D et 2D." loading="lazy">
         </div>
     </div>
 
@@ -79,7 +79,7 @@
             <p class="lg:m-10 lg:text-center">Envie de faire des leds qui réagissent à la musique ? Un détecteur de mensonge (enfin presque) ? Ou alors une autre idée ? Venez apprendre à vous servir d’un Arduino avant de vous procurer le vôtre et de faire vos expériences à la maison. Les cours vous feront découvrir une grande partie de ce qu’il est possible de faire avec !</p>
         </div>
         <div class="p-10">
-            <img class="rounded-2xl" src="img/arduino.webp" alt="Image représentant un arduino">
+            <img class="rounded-2xl" src="img/arduino.webp" alt="Image représentant un arduino" loading="lazy">
         </div>
     </div>
 
@@ -92,7 +92,7 @@
                 Venez vous essayer à notre Fraiseuse pour réaliser toutes vos envies, il vous suffira simplement de vous de la pièce que vous désirez modifier !</p>
         </div>
         <div class="p-10">
-            <img class ="rounded-2xl" src="img/image1.webp" alt="Image en 3D représentant une fraiseuse">
+            <img class ="rounded-2xl" src="img/image1.webp" alt="Image en 3D représentant une fraiseuse" loading="lazy">
         </div>
     </div>
 
@@ -104,7 +104,7 @@
             <p class="lg:m-10 lg:text-center">Envie de retrouver son logo ou dessin sur sweat, t-shirt, casquette ou une serviette ? Venez le dessiner et le broder sur le linge de votre choix !</p>
         </div>
         <div class="p-10">
-            <img class="border-2 border-gray-600 rounded-2xl" src="img/brodeuse.webp" alt="Image représentant une brodeuse.">
+            <img class="border-2 border-gray-600 rounded-2xl" src="img/brodeuse.webp" alt="Image représentant une brodeuse." loading="lazy">
         </div>
     </div>
 </div>

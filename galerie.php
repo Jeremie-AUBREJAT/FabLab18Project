@@ -13,60 +13,60 @@
             <div class="carousel-inner flex">
                 <!-- Première diapositive -->
                 <div class="slide">                 
-                    <img src="img/1(3).webp" alt="represente une serviette">
+                    <img src="img/1(3).webp" alt="represente une serviette" loading="lazy">
                 </div>
                 <!-- Deuxième diapositive -->
                 <div class="slide">                  
-                    <img src="img/1(4).webp" alt="represente un t-shirt">
+                    <img src="img/1(4).webp" alt="represente un t-shirt" loading="lazy">
                 </div>
                 <!-- Troisième diapositive -->
                 <div class="slide">                 
-                    <img src="img/1(2).webp" alt="represente une horloge">
+                    <img src="img/1(2).webp" alt="represente une horloge" loading="lazy">
                 </div>
                 <!-- Quatrième diapositive -->
                 <div class="slide">                 
-                    <img src="img/1(5).webp" alt="poignée de baby-foot">
+                    <img src="img/1(5).webp" alt="poignée de baby-foot" loading="lazy">
                 </div>
                 <!-- Cinquième diapositive -->
                 <div class="slide">                    
-                    <img src="img/1(6.1).webp" alt="represente une plaque route 66">
+                    <img src="img/1(6.1).webp" alt="represente une plaque route 66" loading="lazy">
                 </div>
                 <!-- Sixième diapositive -->
                 <div class="slide">                 
-                    <img src="img/1(7).webp" alt="reprensente un lavabo en bois">
+                    <img src="img/1(7).webp" alt="reprensente un lavabo en bois" loading="lazy">
                 </div>
                 <!-- 7eme diapositive -->
                 <div class="slide">                  
-                    <img src="img/1(8).webp" alt="represente une plaque avec un dragon">
+                    <img src="img/1(8).webp" alt="represente une plaque avec un dragon" loading="lazy">
                 </div>
                 <!-- 8eme diapositive -->
                 <div class="slide">                 
-                    <img src="img/1(10).webp" alt="represente une horloge">
+                    <img src="img/1(10).webp" alt="represente une horloge" loading="lazy">
                 </div>
                 <!-- 9eme diapositive -->
                 <div class="slide">                   
-                    <img src="img/1(13).webp" alt="represente des objets imprimés en 3d">
+                    <img src="img/1(13).webp" alt="represente des objets imprimés en 3d" loading="lazy">
                 </div>
                 <!-- 10eme diapositive -->
                 <div class="slide">                   
-                    <img src="img/1(14).webp" alt="represente des objets imprimés en 3d">
+                    <img src="img/1(14).webp" alt="represente des objets imprimés en 3d" loading="lazy">
                 </div>
                 <!-- 11eme diapositive -->
                 <div class="slide">
                     <!-- Image de la cinquième diapositive -->
-                    <img src="img/1(15).webp" alt="represente un capteur de distance">
+                    <img src="img/1(15).webp" alt="represente un capteur de distance" loading="lazy">
                 </div>
                 <!-- 12eme diapositive -->
                 <div class="slide">                    
-                    <img src="img/1(16).webp" alt="écusson brodé avec une voiture">
+                    <img src="img/1(16).webp" alt="écusson brodé avec une voiture" loading="lazy">
                 </div>
                 <!-- 13eme diapositive -->
                 <div class="slide">                  
-                    <img src="img/1(17).webp" alt="écusson brodé avec une voiture">                      
+                    <img src="img/1(17).webp" alt="écusson brodé avec une voiture" loading="lazy">                      
                 </div>
                 <!-- 14eme diapositive -->
                 <div class="slide">                 
-                    <img src="img/1(18).webp" alt="écusson brodé avec une voiture">
+                    <img src="img/1(18).webp" alt="écusson brodé avec une voiture" loading="lazy">
                 </div>
             </div>
             <!-- Conteneur pour les boutons de navigation -->
@@ -83,48 +83,51 @@
     <!--Galerie mobile-->
     <div class="block md:hidden flex-wrap justify-center">
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(3).webp" alt="represente une serviette">    
+            <img src="img/1(3).webp" alt="represente une serviette" loading="lazy">    
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(4).webp" alt="represente un t-shirt">
+            <img src="img/1(4).webp" alt="represente un t-shirt" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(2).webp" alt="represente une horloge">
+            <img src="img/1(2).webp" alt="represente une horloge" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(5).webp" alt="poignée de baby-foot">
+            <img src="img/1(5).webp" alt="poignée de baby-foot" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(6.1).webp" alt="represente une plaque route 66">
+            <img src="img/1(6.1).webp" alt="represente une plaque route 66" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(7).webp" alt="reprensente un lavabo en bois">
+            <img src="img/1(7).webp" alt="reprensente un lavabo en bois" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(8).webp" alt="represente une plaque avec un dragon">
+            <img src="img/1(8).webp" alt="represente une plaque avec un dragon" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(10).webp" alt="represente une horloge">
+            <img src="img/1(10).webp" alt="represente une horloge" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(13).webp" alt="represente des objets imprimés en 3d">
+            <img src="img/1(13).webp" alt="represente des objets imprimés en 3d" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(14).webp" alt="represente des objets imprimés en 3d">
+            <img src="img/1(14).webp" alt="represente des objets imprimés en 3d" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(15).webp" alt="represente un capteur de distance">
+            <img src="img/1(15).webp" alt="represente un capteur de distance" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(16).webp"alt="écusson brodé avec une voiture">
+            <img src="img/1(16).webp"alt="écusson brodé avec une voiture" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(17).webp" alt="écusson brodé avec une voiture">
+            <img src="img/1(17).webp" alt="écusson brodé avec une voiture" loading="lazy">
         </div>
         <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/5 p-2">
-            <img src="img/1(18).webp" alt="écusson brodé avec une voiture">
+            <img src="img/1(18).webp" alt="écusson brodé avec une voiture" loading="lazy">
         </div>
         
+    </div>
+    <div>
+
     </div>
 
 <?php include ('src/inc/footer.php');?>
