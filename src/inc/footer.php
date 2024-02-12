@@ -39,5 +39,10 @@
             </a>
         </div>
     </div>
-    
+    <div class="fixed bottom-0 right-0 flex justify-center items-center">
+    <button class="scroll-to-top-button">
+        <img src="img/fleche.png" alt="bouton-haut-de-page"class="rounded-2xl">
+    </button>
+    </div>
+    <script src="src/js/hautPage.js"></script>
 </footer>

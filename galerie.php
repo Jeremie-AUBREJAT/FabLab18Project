@@ -10,7 +10,7 @@
         <!-- Élément carrousel -->
         <div class="carousel relative overflow-hidden mt-6">
             <!-- Conteneur interne pour les diapositives -->
-            <div class="carousel-inner flex">
+            <div class="carousel-inner flex bg-gray-100 bg-auto rounded-2xl m-20">
                 <!-- Première diapositive -->
                 <div class="slide">                 
                     <img src="img/1(3).webp" alt="represente une serviette" loading="lazy">
@@ -126,9 +126,10 @@
         </div>
         
     </div>
-    <div>
+    
 
-    </div>
+</div>
+
 
 <?php include ('src/inc/footer.php');?>
 
