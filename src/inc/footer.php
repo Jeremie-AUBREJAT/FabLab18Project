@@ -4,7 +4,9 @@
 <footer class="bg-gray-300 text-white py-4" style="background-image: url('img/testx2.png'); background-size: cover;" loading="lazy">
     <div class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex items-center">
+        <a href="index.php">
            <img src="img/1.png" alt="Logo" class="w-32 h-32 mx-10" loading="lazy">
+           <a href="index.php">
            <div class="text-black font-permanent-marker w-8 h-8 text-2xl font-bold mr-10">BerryLab18           
             </div>
         </div>
