@@ -1,9 +1,9 @@
 <header class="lg:mb-20">
         <div class="bg-gray-300 p-4 text-black text-center h-64" style="background-image: url('img/testx2.png'); background-size: cover;" loading="lazy">
             <div class="container mx-auto flex items-center justify-center">
-            <a href="index.php">
+            <a href="index.php" aria-label="Lien vers l'accueil">
                 <img id="logo" src="img/1.png" title="logo" class="w-32 h-32" loading="lazy">
-                <a href="index.php">
+                <a href="index.php" aria-label="Lien vers l'accueil">
                 <h1 class="text-4xl font-permanent-marker font-bold ml-2">Berry lab 18</h1>
             </div>
             <!-- Balise nav visible uniquement en version desktop -->

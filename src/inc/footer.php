@@ -4,10 +4,10 @@
 <footer class="bg-gray-300 text-white py-4" style="background-image: url('img/testx2.png'); background-size: cover;" loading="lazy">
     <div class="container mx-auto flex flex-wrap justify-between items-center">
         <div class="flex items-center">
-            <a href="index.php">
+            <a href="index.php" aria-label="Lien vers l'accueil">
                 <img src="img/1.png" alt="Logo" class="w-32 h-32 mx-10" loading="lazy">
             </a>
-            <a href="index.php">
+            <a href="index.php" aria-label="Lien vers l'accueil">
                 <div class="text-black font-permanent-marker w-8 h-8 text-2xl font-bold mr-10">BerryLab18           
                 </div>
             </a>
@@ -26,15 +26,15 @@
   
         <div class="flex ml-16 space-x-16 lg:space-x-4">
             
-            <a href="https://www.facebook.com/?locale=fr_FR" class="text-xl text-black hover:text-gray-400">
+            <a href="https://www.facebook.com/?locale=fr_FR" class="text-xl text-black hover:text-gray-400" aria-label="Lien vers Facebook">
                 <img src="img/pngegg(9).png" alt="facebook" class="w-8 h-8" loading="lazy">
                 <i class="fab fa-facebook"></i>
             </a>            
-            <a href="https://twitter.com/?lang=fr" class="text-xl text-black hover:text-gray-400">
+            <a href="https://twitter.com/?lang=fr" class="text-xl text-black hover:text-gray-400" aria-label="Lien vers Twitter/X">
                 <img src="img/twitter-x-logo-42554.png" alt="X" class="w-8 h-8" loading="lazy">
                 <i class="fab fa-twitter"></i>
             </a>           
-            <a href="https://www.instagram.com/" class="text-xl text-black hover:text-gray-400">
+            <a href="https://www.instagram.com/" class="text-xl text-black hover:text-gray-400" aria-label="Lien vers Instagram">
                 <img src="img/1(7).png" alt="instagram" class="w-8 h-8" loading="lazy">
                 <i class="fab fa-instagram"></i>
             </a>
