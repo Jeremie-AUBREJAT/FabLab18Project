@@ -9,12 +9,5 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap">
     <link rel="stylesheet" href="src/css/testCarousel.css">
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-    
-    
-    
-    <!-- Lien vers le fichier JavaScript pour les fonctionnalités interactives -->
-   
-    
-    <!--<script src="https://cdn.tailwindcss.com"></script>-->
     <title>Fablab18</title>
 </head>
