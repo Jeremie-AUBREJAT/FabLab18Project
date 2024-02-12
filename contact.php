@@ -4,6 +4,7 @@
     <!--appel au header-->
     <?php
     include('src/inc/header.php');
+    include('src/inc/head.php');
     ?>
     <!--zone de recherche des formations-->
     <div class="pageForm">
@@ -36,44 +37,7 @@
                  <p id="texte">Text de formation</p>
             </div>
             </div>
-            <script>
-                function afficherImage() {
-                  const select = document.querySelector("#formation");
-                  const valeur = select.value;
-                  let image, texte;
-                  switch (valeur) {
-                    case "montage_video":
-                      image = "url(montage_video.jpg)";
-                      texte = "Découvrez les techniques de montage vidéo.";
-                      break;
-                    case "designspark_2D":
-                      image = "url(designspark_2D.jpg)";
-                      texte = "Apprenez à dessiner en 2D avec Designspark.";
-                      break;
-                    case "brodeuse_numerique":
-                      image = "url(brodeuse_numerique.jpg)";
-                      texte = "Devenez un pro de la broderie numérique.";
-                      break;
-                    case "fraiseuse_CNC":
-                      image = "url(fraiseuse_CNC.jpg)";
-                      texte = "Apprenez à utiliser une fraiseuse CNC.";
-                      break;
-                    case "arduino":
-                      image = "url(arduino.jpg)";
-                      texte = "Découvrez l'univers de la programmation avec Arduino.";
-                      break;
-                    case "imprimante_3D":
-                      image = "url(imprimante_3D.jpg)";
-                      texte = "Imprimez en 3D grâce à notre formation.";
-                      break;
-                    default:
-                      image = "";
-                      texte = "";
-                  }
-                  document.querySelector("#image").style.backgroundImage = image;
-                  document.querySelector("#texte").textContent = texte;
-                }
-              </script>
+            
          
         <div class="formulaireC">
             <h2 class="contacts">Contact</h2>
@@ -107,5 +71,6 @@
     <?php
     require_once('src/inc/footer.php');
     ?>
+    <script src="src/js/contact.js" async></script>
 </body>
 </html>

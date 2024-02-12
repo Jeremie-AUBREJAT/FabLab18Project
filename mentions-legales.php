@@ -1,8 +1,8 @@
 <body>
-<link rel="stylesheet" href="src/css/bodyMentions.css">
     <!--appel au header-->
     <?php
     include('src/inc/header.php');
+    include('src/inc/head.php');
     ?>
     <h2 class="titreMentions">Mentions Légales</h2>
     <!--Text Mentions Légales-->

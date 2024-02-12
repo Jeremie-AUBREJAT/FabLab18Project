@@ -1,12 +1,4 @@
-.titreMentions {
-    display:flex;
-    font-family:Arial, Helvetica, sans-serif;
-    font-size: 1.5em;
-    font-weight: bold;
-    line-height: 1;
-    Justify-content: center;
-}
-.mentionslegales{
+.text1 {
     margin: 40px;
     padding: 40px;
     display:flex;
@@ -19,4 +11,21 @@
     background-color:#e5e7eb;
     box-sizing:content-box;
     border-radius: 30px;
+    
+    
 }
+.text2 {
+    margin: 40px;
+    padding: 40px;
+    display:grid;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    line-height: 1;
+    Justify-content: center;
+    position:relative;
+    background-color:#e5e7eb;
+    box-sizing:content-box;
+    border-radius: 30px;
+}
+

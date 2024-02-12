@@ -3,6 +3,7 @@
      <!--appel au header-->
      <?php
      include('src/inc/header.php');
+     include('src/inc/head.php');
      ?>
      <!--zone de recherche des formations-->
     <div class="acceuil">
