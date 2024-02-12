@@ -4,7 +4,7 @@
 <body>
 <?php include ('src/inc/header.php');?> <!-- Rappel du header -->
     <div class="formation flex">
-        <select name="session" class="bg-gray-500 dark:bg-gray-300 text-black rounded-md shadow-lg ml-20 p-3 text-xl font-semibold">
+        <select name="session" class="bg-gray-500 dark:bg-gray-300 text-black rounded-lg shadow-lg ml-20 p-3 text-xl font-semibold">
             <option value="" disabled selected>Nos formation</option>
             <option value="1">Imprimante 3D</option> 
             <option value="2">Montage vidéo</option>
