@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta name="FabLab" content="Bienvenue dans notre FabLab. Transformez vos idées en réalité avec nos équipements de pointe. Lancez-vous dans l'innovation !">
+    <meta name="description" content="Bienvenue dans notre FabLab. Transformez vos idées en réalité avec nos équipements de pointe. Lancez-vous dans l'innovation !">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="src/output.css">
