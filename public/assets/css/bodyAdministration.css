@@ -1,0 +1,143 @@
+
+/********Titre*************************/
+/*CSS du titre coté rappels Services*/
+.administration{
+    display:flex;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1;
+    Justify-content: center;
+}
+/*CSS du titre coté Formulaire*/
+.MAJ{
+    display:flex;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.6em;
+    font-weight: bold;
+    line-height: 1;
+    Justify-content: center;
+}
+
+/*Css interface Contact*/
+@media (min-width:800px){
+    .pageAdministration{
+        display: flex;
+        align-items:left;
+        }}
+.formAdmin{
+    display: flex;
+    background-color:#e5e7eb;
+    /*box-sizing:content-box;*/
+    border-radius:30px;
+    width: 100%;
+    height:700px;
+    border: solid black 2px;
+    padding:20px;
+    Justify-content: center;      
+    }
+.formFormation{
+    display: flex;
+    background-color:#e5e7eb;
+    /*box-sizing:content-box;*/
+    border-radius:30px;
+    width: 100%;
+    height:700px;
+    border: solid black 2px;
+    padding:20px;
+    Justify-content: center;      
+    }
+/*****************Zone text area*****************/
+/*Zone de saisie  libelle formation*/
+.descriptionFormation{
+    width:100%;
+    height: 250px;
+    padding:20px 20px;
+    box-sizing: border-box;
+    border:2px solid #1D1D1D;
+}
+/*Zone de saisie  libelle outil*/
+.descriptionOutil{
+    width:100%;
+    height: 250px;
+    padding:20px 20px;
+    box-sizing: border-box;
+    border:2px solid #1D1D1D;
+}
+/*Zone de saisie  libelle realisation*/
+.descriptionRealisation{
+    width:100%;
+    height: 250px;
+    padding:20px 20px;
+    box-sizing: border-box;
+    border:2px solid #1D1D1D;
+}
+/*****************Zone definition bouton*********/
+/*Apparence du Bouton connexion administrateur*/
+.buttonAdmin{
+        display: inline-block;
+        padding:10px 10px;
+        font-size:17px;
+        text-align:center;
+        text-decoration:none;
+        border:4px solid #000000;
+        color:#1D1D1D;
+        border-radius:15px;
+        transition: bacground-color 0.3s, color 0.3s;
+        margin-left:85%; /* Position du Bouton*/
+}
+.buttonAdmin:hover {
+        background-color:#444444;
+        color:#FFFFFF;
+} 
+/*Apparence du Bouton modification*/
+.modif{
+    display: inline-block;
+    padding:10px 10px;
+    font-size:17px;
+    text-align:center;
+    text-decoration:none;
+    border:4px solid #000000;
+    color:#1D1D1D;
+    border-radius:15px;
+    transition: bacground-color 0.3s, color 0.3s;
+    margin-left:85%; /* Position du Bouton*/
+}
+.modif:hover {
+    background-color:#444444;
+    color:#FFFFFF;
+} 
+/*Apparence du Bouton creation*/
+.creation{
+    display: inline-block;
+    padding:10px 10px;
+    font-size:17px;
+    text-align:center;
+    text-decoration:none;
+    border:4px solid #000000;
+    color:#1D1D1D;
+    border-radius:15px;
+    transition: bacground-color 0.3s, color 0.3s;
+    margin-left:85%; /* Position du Bouton*/
+}
+.creation:hover {
+    background-color:#444444;
+    color:#FFFFFF;
+}
+ /*Apparence du Bouton edition*/
+.edition{
+    display: inline-block;
+    padding:10px 10px;
+    font-size:17px;
+    text-align:center;
+    text-decoration:none;
+    border:4px solid #000000;
+    color:#1D1D1D;
+    border-radius:15px;
+    transition: bacground-color 0.3s, color 0.3s;
+    margin-left:85%; /* Position du Bouton*/
+}
+.edition:hover {
+    background-color:#444444;
+    color:#FFFFFF;
+} 
